@@ -3,7 +3,6 @@ Some codes in js.
 
 ## General Files
 
-  - [Converting temperature from kelvin to Fahrenheit and Celsius.](./temperatureConversion.js)
-    - In this we convert the temperature units from Kelvin to degree Centigrade and degree Fahrenheit.
+  - 1. [Converting temperature from kelvin to Fahrenheit and Celsius.](./temperatureConversion.js)
     
-  - [Calculating Dog Years for Human Years.](./dogYears.js)
+  - 2. [Calculating Dog Years for Human Years.](./dogYears.js)
