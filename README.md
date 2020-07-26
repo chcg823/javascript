@@ -1,2 +1,2 @@
-# javascript
+# Javascript
 Some codes in js.
